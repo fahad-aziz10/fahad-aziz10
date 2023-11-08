@@ -1,5 +1,9 @@
 ### Hi there 👋
+🔭 I am a dedicated Electrical Engineer with a Master's degree in Electrical Engineering from UET Lahore, specializing in Embedded Systems and holding multiple certifications in Machine Learning and Artificial Intelligence. With a passion for technology and a deep understanding of electrical engineering principles, I am committed to advancing innovative solutions in this dynamic field. My professional journey spans various roles, from startups to established corporations, where I actively contributed to Embedded Systems projects, honing technical skills and fostering effective communication and teamwork.
 
+🌱 Looking ahead, my career goals revolve around challenging projects and exploring the intersection of electrical engineering and machine learning. I'm enthusiastic about contributing to cutting-edge innovations in the electrical engineering sector.
+
+📫 I welcome connections with fellow professionals in the electrical engineering, embedded systems, and machine learning domains. Feel free to connect with me on LinkedIn to explore potential collaborations or discussions. You can also reach me via email at fahad_aziz10@yahoo.com .
 <!--
 **fahad-aziz10/fahad-aziz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
